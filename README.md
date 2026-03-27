@@ -1,19 +1,24 @@
-# Donny Bravo Project
+# Donny Bravo Portfolio
 
 A personal portfolio project showcasing HTML, CSS, and JavaScript skills.
 
-## Features
+## 🌐 Live Demo
+👉 https://donwilson-dev.github.io/donny-bravo/
 
+## 🚀 Features
 - Responsive layout
 - Styled with CSS
 - Interactive elements using JavaScript
+- Animated UI elements
 
-## Technologies Used
-
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Author
+## 📸 Preview
 
+![Portfolio Screenshot](html_finalprojimages/screenshot.png)
+
+## 👨‍💻 Author
 Don Wilson
